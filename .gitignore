@@ -1,0 +1,32 @@
+node_modules/
+dist/
+.env
+
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
+# Vite
+.cache/
+.vite/
+# Python
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+# Next/Nuxt
+.next/
+.nuxt/
+# Env examples
+.env.example
+# Lock files
+package-lock.json
+# Logs
+*.log
+# Temp
+*.tmp
+*.bak
+*.swp
+# History
+.history/
